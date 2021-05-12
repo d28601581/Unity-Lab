@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: aa0a2260a4542684588d1ebd0c76ee64
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 390571917538314841
+    second: Enemy Bullet_0
+  - first:
+      213: 1675107215452118367
+    second: Enemy Bullet_1
+  - first:
+      213: -3242021411272441279
+    second: Enemy Bullet_2
+  - first:
+      213: 6022475820764089252
+    second: Enemy Bullet_3
+  - first:
+      213: 3234090182040802362
+    second: Enemy Bullet_4
+  - first:
+      213: -982530285037179399
+    second: Enemy Bullet_5
+  - first:
+      213: 890647091368317499
+    second: Enemy Bullet_6
+  - first:
+      213: -5671361231522140852
+    second: Enemy Bullet_7
+  - first:
+      213: -3156475418233145741
+    second: Enemy Bullet_8
+  - first:
+      213: 311562347971802861
+    second: Enemy Bullet_9
+  - first:
+      213: 6537217784159558835
+    second: Enemy Bullet_10
+  - first:
+      213: -5772249303026954223
+    second: Enemy Bullet_11
+  - first:
+      213: -2687365198549160463
+    second: Enemy Bullet_12
+  - first:
+      213: 6829544277998594163
+    second: Enemy Bullet_13
+  - first:
+      213: 7624329306572687228
+    second: Enemy Bullet_14
+  - first:
+      213: 198287378720969878
+    second: Enemy Bullet_15
+  - first:
+      213: 703557593206363682
+    second: Enemy Bullet_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy Bullet_14
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 148
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c778dd0eb1f0fc960800000000000000
+      internalID: 7624329306572687228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
